@@ -106,5 +106,5 @@ Por outro lado, o projeto também destacou a relevância de boas práticas defen
 
 Por fim, este laboratório contribuiu para o desenvolvimento de uma visão mais prática e estratégica sobre segurança da informação, reforçando a importância de pensar tanto como atacante quanto como defensor na proteção de sistemas.
 Obviamente que este lab é básico, introdutório e apenas nos dá um conhecimento básico sobre a cibersegurança.
-A cibersegurança é um assunto muito profundo, que demanda muito estudo, aprofundamento e dedicação, pois não é aplicado uma vez; é uma tarefa diária, constante.
+A cibersegurança é um assunto muito profundo, que demanda muito estudo, e dedicação, pois não é aplicado uma vez; é uma tarefa diária, constante.
 Esse bootcamp que fiz pela DIO em parceria com a Riachuelo foi para conhecer alguns recursos e ferramentas que eu nunca havia trabalhado anteriormente, mas que teve um conteúdo muito bem explicado, com uma didática excepcional.
